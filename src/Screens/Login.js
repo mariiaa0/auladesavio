@@ -23,9 +23,9 @@ export default function Login() {
         style={{
           padding: 60,
           margin: 20,
-          backgroundColor: 'black',
+          backgroundColor: 'red',
           borderRadius: 20,
-          borderColor: 'white',
+          borderColor: 'blue',
           borderWidth: 2
       }}>
 

@@ -4,6 +4,4 @@ Execute o arquivo `App.js` para escrever algum código e modificar o projeto. Vo
 
 Todos os projetos criados com o Expo são publicamente disponíveis, o que permite que você os compartilhe facilmente através de um link ou que os incorpore em uma página web através do botão '< >'.
 
-IAE BURGUER
-Maria Fernanda Nunes de Siqueira
-Gabriella Venâncio de Melo Alves
+Professor Doutor Sávio Silva de Almeida
